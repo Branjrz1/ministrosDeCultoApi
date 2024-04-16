@@ -1,0 +1,15 @@
+igl\filadelfia\control_asist_api\entity\Persona.class
+igl\filadelfia\control_asist_api\ControlAsistApiApplication$MyConfiguration.class
+igl\filadelfia\control_asist_api\entity\repository\EventoRepository.class
+igl\filadelfia\control_asist_api\entity\repository\PersonaRepository.class
+igl\filadelfia\control_asist_api\ControlAsistApiApplication$MyConfiguration$1.class
+igl\filadelfia\control_asist_api\entity\repository\AsistenciaRepository.class
+igl\filadelfia\control_asist_api\service\AsisstenciaService.class
+igl\filadelfia\control_asist_api\service\PersonaService.class
+igl\filadelfia\control_asist_api\controller\MainController.class
+igl\filadelfia\control_asist_api\entity\dto\AsistenciaDto.class
+igl\filadelfia\control_asist_api\entity\dto\MetricsDTO.class
+igl\filadelfia\control_asist_api\entity\Asistencia.class
+igl\filadelfia\control_asist_api\entity\Evento.class
+igl\filadelfia\control_asist_api\service\MetricsService.class
+igl\filadelfia\control_asist_api\ControlAsistApiApplication.class
